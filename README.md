@@ -1,8 +1,13 @@
 # 👨‍💻 Monica Oliveira
 **`Desenvolvedora`**
 
-Bem-vinda(o) ao meu cantinho no GitHub!  
-Sou desenvolvedora Front-End com foco em transformar ideias em interfaces bonitas, reativas e funcionais. 
+🌸 Olá, seja bem-vindo(a) ao meu cantinho no GitHub!
+
+Sou **desenvolvedora Front-End** que ama transformar ideias em experiências **bonitas, acessíveis e funcionais**.  
+Acredito que cada linha de código é uma oportunidade de **aprender**, **crescer** e **criar algo que faça sentido** para as pessoas.
+
+💫 Aqui compartilho um pouco da minha jornada — feita de **curiosidade**, **empatia** e **descobertas** no universo da tecnologia.  
+Sinta-se à vontade para explorar, se inspirar e acompanhar minha evolução por aqui. 🌷
 
 
 
